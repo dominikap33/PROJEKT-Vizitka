@@ -42,6 +42,10 @@ p{
     text-align: justify;
 }
 
+.normal {
+    letter-spacing: -0.4px;
+}
+
 .bottom{
     margin-bottom: 30px;
 }
