@@ -19,7 +19,7 @@ body {
     
 }
 
-h1{
+h1 {
     color: #d63031;
     font-weight: 700;
     font-size: 36px;
@@ -27,7 +27,7 @@ h1{
     margin-bottom: 30px;
 }
 
-img{
+.foto {
     border-radius: 50%;
     width: 150px;
     position: absolute;
@@ -37,7 +37,7 @@ img{
     box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.2);
 }
 
-p{
+p {
     font-size: 18px;
     text-align: justify;
 }
@@ -46,11 +46,11 @@ p{
     letter-spacing: -0.4px;
 }
 
-.bottom{
-    margin-bottom: 30px;
+.odkazy {
+    margin-top: 30px;
 }
 
-a{
+.tlacitko {
     font-size: 18px;
     display: block;
     padding: 10px;
@@ -63,28 +63,28 @@ a{
 
 }
 
-.twitter{
+.twitter {
     margin-bottom: 5px;
     background-color: #1da1f2;
 }
 
-.twitter:hover{
+.twitter:hover {
     background-color: #0b7bc1;
 }
 
-.twitter:focus{
+.twitter:focus {
     background-color: #0b7bc1;
 }
 
-.facebook{
+.facebook {
     background-color: #3b5998;
 }
 
-.facebook:hover{
+.facebook:hover {
     background-color: #2b406e;
 }
 
-.facebook:focus{
+.facebook:focus {
     background-color: #2b406e;
 }
 
